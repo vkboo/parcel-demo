@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/vkboo/parcel-demo/issues"
   },
-  "homepage": "https://github.com/vkboo/parcel-demo#readme"
+  "homepage": "https://github.com/vkboo/parcel-demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
